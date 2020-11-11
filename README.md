@@ -1,5 +1,8 @@
 
 [![DarrylKilzer's github stats](https://github-readme-stats.vercel.app/api?username=darrylkilzer&show_icons=true&bg_color=rgba(255,255,255,1))](https://github.com/darrylkilzer/github-readme-stats)
+<a href="/" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrylkilzer&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
+  </a>
 <!--
 **DarrylKilzer/darrylkilzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
