@@ -3,7 +3,7 @@
 <a href="/" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrylkilzer&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
   </a>
-  <img src="https://github-readme-linkedin.vercel.app/[METHOD]?username=darryl-kilzer-jr" />
+  [Darryl Kilzer on LinkedIn](https://www.linkedin.com/in/darryl-kilzer-jr/)
 <!--
 **DarrylKilzer/darrylkilzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
